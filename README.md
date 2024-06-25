@@ -10,4 +10,10 @@
   👩‍💻 I create responsive websites using HTML, CSS, JavaScript, and the Bootstrap framework.<br>
   🌐 I create all types of designs like resumes, social media posts, logos, presentations, posters, flyers, thumbnails, and many more designs.
 
+  ---
+
+  
+  <p align="center">Thank you for visiting my profile! 😊</p>
+
+
 <!-- Rest of your README content -->
