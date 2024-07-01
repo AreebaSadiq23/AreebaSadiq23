@@ -11,8 +11,15 @@
   🌟 I'm passionate about learning Generative AI.<br>
   📜 Ask me about HTML, CSS, Bootstrap, JavaScript.<br>
   🚀 I'm a consistent, hardworking, and motivated person.<br>
-  👩‍💻 I create responsive websites using HTML, CSS, JavaScript, and the Bootstrap framework.<br>
-  🌐 I create all types of designs like  logos, posters, flyers, and many more designs.
+
+
+## 🛠️skills
+HTML<br>
+CSS<br>
+Javascript<br>
+Typescript<br>
+Bootstarp(Framework)<br>
+Node.js
 
 
 <p align="center">
@@ -20,6 +27,8 @@
     <img src="https://streak-stats.demolab.com?user=AreebaSadiq23&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
+
+## 📬 My Github Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" alt="GitHub Stats" style="float: left; margin-right: 10px;" />
