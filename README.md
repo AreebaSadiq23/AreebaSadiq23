@@ -25,7 +25,7 @@ Node.js
 
 
 ## 📬 My Github Stats
-![Profile Views](https://img.shields.io/badge/Profile_Views-1234-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AreebaSadiq23&color=blue)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" alt="GitHub Stats" style="float: left; margin-right: 10px;" />
