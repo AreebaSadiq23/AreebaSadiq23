@@ -30,6 +30,7 @@ Node.js
   <img src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" alt="GitHub Stats" style="float: left; margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=radical" alt="Top Languages" style="float: right; margin-left: 10px;" />
 </div>
+![Profile Views](https://komarev.com/ghpvc/?username=AreebaSadiq23&color=red)
 
 <p align="center" style="font-size: "20px"; color: #555;" margin-top="10px">Thanks for visiting my profile!</p>
 
