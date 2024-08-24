@@ -22,18 +22,22 @@ Bootstarp(Framework)<br>
 Node.js
 
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaSadiq23&theme=radical" alt="GitHub Streak"/>
+</div>
 
 
-## 📬 My Github Stats
+## 📬 My Github Stats and Views
 ![Profile Views](https://komarev.com/ghpvc/?username=AreebaSadiq23&color=blue)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" alt="GitHub Stats" style="float: left; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=radical" alt="Top Languages" style="float: right; margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" alt="GitHub Stats" style="float: left; margin-right: 50px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=radical" alt="Top Languages" style="float: right; margin-left: 50px;" />
 </div>
 
-<p align="center" style="font-size: "20px"; color: #555;" margin-top="10px">Thanks for visiting my profile!</p>
 
+
+<p align="center" style="font-size: "20px"; color: #555;" margin-top="60px">Thanks for visiting my profile!</p>
 
 
 
