@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
   🌈 I'm interested in coding.<br>
-  📗 I'm currently learning TypeScript.<br>
+  📗 I'm currently learning Nextjs and Tailwindcss.<br>
   💻 I'm a student of Generative AI Engineering.<br>
   🌟 I'm passionate about learning Generative AI.<br>
-  📜 Ask me about HTML, CSS, Bootstrap, JavaScript.<br>
+  📜 Ask me about HTML, CSS,TypeScript.<br>
   🚀 I'm a consistent, hardworking, and motivated person.<br>
 
 
@@ -37,7 +37,7 @@ Node.js
 
 
 
-<p align="center" style="font-size: "20px"; color: #555;" margin-top="60px">Thanks for visiting my profile!</p>
+<p align="center" style="font-size: "30px"; color: #000;" margin-top="60px">Thanks for visiting my profile!</p>
 
 
 
