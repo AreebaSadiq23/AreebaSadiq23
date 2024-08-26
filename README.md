@@ -16,10 +16,10 @@
 ## 🛠️skills
 HTML<br>
 CSS<br>
-Javascript<br>
 Typescript<br>
-Bootstarp(Framework)<br>
-Node.js
+Node.js<br>
+Next JS <br>
+Tailwind CSS
 
 
 <div align="center">
@@ -37,6 +37,7 @@ Node.js
   <img src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" alt="GitHub Stats" style="float: left; margin-right: 50px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=radical" alt="Top Languages" style="float: right; margin-left: 50px;" />
 </div>
+
 
 
 
