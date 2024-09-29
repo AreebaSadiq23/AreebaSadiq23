@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Areeba Sadiq</h1>
 
-
 ![White Clean Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://github.com/AreebaSadiq23/AreebaSadiq23/assets/173811883/3cd291f5-8d4e-414d-b04a-c0d3cbeb701f)
 
 
 ## 🙋‍♀️ About Me
-  🌈 I'm interested in coding.<br>
-  📗 I'm currently learning Nextjs and Tailwindcss.<br>
-  💻 I'm a student of Generative AI Engineering.<br>
-  🌟 I'm passionate about learning Generative AI.<br>
-  📜 Ask me about HTML, CSS,TypeScript.<br>
-  🚀 I'm a consistent, hardworking, and motivated person.<br>
+  • 🌈 I'm interested in coding.<br>
+  • 📗 I'm currently learning Nextjs and Tailwindcss.<br>
+  • 💻 I'm a student of Generative AI Engineering.<br>
+  • 🌟 I'm passionate about learning Generative AI.<br>
+  • 📜 Ask me about HTML, CSS,TypeScript.<br>
+  • 🚀 I'm a consistent, hardworking, and motivated person.<br>
 
 
 ## 🛠️skills
