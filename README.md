@@ -1,7 +1,7 @@
 ![1](https://github.com/user-attachments/assets/21540c3b-810c-442e-b2cd-6cb5a032d2a0)
 
 <h1 align="center">Hi 👋, I'm Areeba Sadiq</h1>
-<h2>Frontend Developer from Pakistan</h2>
+<h2 align="center">Frontend Developer from Pakistan</h2>
 
 ## 🙋‍♀️ About Me
   • 🌈 I'm interested in coding.<br>
