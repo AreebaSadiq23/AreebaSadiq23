@@ -1,7 +1,6 @@
+![1](https://github.com/user-attachments/assets/21540c3b-810c-442e-b2cd-6cb5a032d2a0)
+
 <h1 align="center">Hi 👋, I'm Areeba Sadiq</h1>
-
-![White Clean Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://github.com/AreebaSadiq23/AreebaSadiq23/assets/173811883/3cd291f5-8d4e-414d-b04a-c0d3cbeb701f)
-
 
 ## 🙋‍♀️ About Me
   • 🌈 I'm interested in coding.<br>
@@ -13,12 +12,12 @@
 
 
 ## 🛠️skills
-HTML<br>
-CSS<br>
-Typescript<br>
-Node.js<br>
-Next JS <br>
-Tailwind CSS
+• HTML<br>
+• CSS<br>
+• Typescript<br>
+• Node.js<br>
+• Next JS <br>
+• Tailwind CSS
 
 
 <div align="center">
