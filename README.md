@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Areeba Sadiq</h1>
+<h1 align="center">Hi 👋, I'm Areeba</h1>
 
 ![1](https://github.com/user-attachments/assets/21540c3b-810c-442e-b2cd-6cb5a032d2a0)
 ## 🙋‍♀️ About Me
