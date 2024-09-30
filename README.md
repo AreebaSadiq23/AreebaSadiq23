@@ -1,6 +1,6 @@
-![1](https://github.com/user-attachments/assets/21540c3b-810c-442e-b2cd-6cb5a032d2a0)
 <h1 align="center">Hi 👋, I'm Areeba Sadiq</h1>
 
+![1](https://github.com/user-attachments/assets/21540c3b-810c-442e-b2cd-6cb5a032d2a0)
 ## 🙋‍♀️ About Me
   • 🌈 I'm interested in coding.<br>
   • 📗 I'm currently learning Nextjs and Tailwindcss.<br>
