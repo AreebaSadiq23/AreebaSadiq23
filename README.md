@@ -38,7 +38,6 @@
 
 
 
-<p align="center" style="font-size: "30px"; color: #000;" margin-top="60px">Thanks for visiting my profile😊!</p>
 
 
 
