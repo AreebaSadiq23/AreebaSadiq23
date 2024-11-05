@@ -19,7 +19,7 @@
 • Tailwind CSS<br>
 • ShadcnUI <br>
 • Figma <br>
-• javascript
+• Javascript
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaSadiq23&theme=radical" alt="GitHub Streak"/>
