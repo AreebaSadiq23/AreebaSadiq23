@@ -16,8 +16,10 @@
 • Typescript<br>
 • Node.js<br>
 • Next JS <br>
-• Tailwind CSS
-
+• Tailwind CSS<br>
+• ShadcnUI <br>
+• Figma <br>
+• javascript
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaSadiq23&theme=radical" alt="GitHub Streak"/>
