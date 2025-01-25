@@ -19,7 +19,8 @@
 • Tailwind CSS<br>
 • ShadcnUI <br>
 • Figma <br>
-• Javascript
+• Javascript<br>
+• Sanity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaSadiq23&theme=radical" alt="GitHub Streak"/>
