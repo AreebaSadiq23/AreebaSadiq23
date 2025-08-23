@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Areeba Sadiq</h1>
 
-![1](https://github.com/user-attachments/assets/21540c3b-810c-442e-b2cd-6cb5a032d2a0)
+<img width="1584" height="396" alt="Purple Modern Geometric Graphic Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/da5d8f03-ba07-4910-bb35-0732a4f32e60" />
+
 ## 🙋‍♀️ About Me
   • 🌈 I'm interested in coding.<br>
-  • 📗 I'm currently learning Nextjs and Tailwindcss.<br>
+  • 📗 I'm currently learning Python and Agentic AI.<br>
   • 💻 I'm a student of Generative AI Engineering.<br>
   • 🌟 I'm passionate about learning Generative AI.<br>
   • 📜 Ask me about HTML, CSS,TypeScript.<br>
