@@ -20,7 +20,9 @@
 • ShadcnUI <br>
 • Figma <br>
 • Javascript<br>
-• Sanity
+• Sanity<br>
+• Python<br>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaSadiq23&theme=radical" alt="GitHub Streak"/>
