@@ -5,8 +5,8 @@
 ## 🙋‍♀️ About Me
   • 🌈 I'm interested in coding.<br>
   • 📗 I'm currently learning Python and Agentic AI.<br>
-  • 💻 I'm a student of Generative AI Engineering.<br>
-  • 🌟 I'm passionate about learning Generative AI.<br>
+  • 💻 I'm a student of AI Engineering.<br>
+  • 🌟 I'm passionate about learning Agentic AI.<br>
   • 📜 Ask me about HTML, CSS,TypeScript.<br>
   • 🚀 I'm a consistent, hardworking, and motivated person.<br>
 
