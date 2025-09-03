@@ -1,39 +1,35 @@
-<h1 align="center">Hi 👋, I'm Areeba Sadiq</h1>
+<img width="1584" height="396" alt="Purple Modern Geometric Graphic Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/80d34ca2-25d8-49c6-936d-57bfb48b98b4" />
 
-<img width="1584" height="396" alt="Purple Modern Geometric Graphic Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/da5d8f03-ba07-4910-bb35-0732a4f32e60" />
+<h1 align="center">Hi 👋, I'm <b>Areeba Sadiq</b></h1>
+<h3 align="center">Full Stack Developer | UI/UX Designer | AI Enthusiast</h3>
 
-## 🙋‍♀️ About Me
-  • 🌈 I'm interested in coding.<br>
-  • 📗 I'm currently learning Python and Agentic AI.<br>
-  • 💻 I'm a student of AI Engineering.<br>
-  • 🌟 I'm passionate about learning Agentic AI.<br>
-  • 📜 Ask me about HTML, CSS,TypeScript.<br>
-  • 🚀 I'm a consistent, hardworking, and motivated person.<br>
+---
 
+## 👩‍💻 About Me  
 
-## 🛠️skills
-• HTML<br>
-• CSS<br>
-• Typescript<br>
-• Node.js<br>
-• Next JS <br>
-• Tailwind CSS<br>
-• ShadcnUI <br>
-• Figma <br>
-• Javascript<br>
-• Sanity<br>
-• Python<br>
+- 🌱 Currently learning **Python & Agentic AI Systems**  
+- 💼 1+ year of experience in **Frontend & Full-Stack Development**  
+- 🎨 Passionate about **Pixel-perfect UI/UX** with Figma  
+- ⚡ Exploring **AI Chatbots, LangChain & OpenAI Agents SDK**  
 
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaSadiq23&theme=radical" alt="GitHub Streak"/>
-</div>
+## 🛠️ Tech Stack  
 
-## 👥 Views and Followers
-![GitHub followers](https://img.shields.io/github/followers/AreebaSadiq23?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=AreebaSadiq23&color=blue)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,bootstrap,python,figma,git,github,vscode" />
+</p>
 
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AreebaSadiq23&label=Profile%20Views&color=6D0F36&style=flat" alt="profile views" /> 
+  <a href="https://github.com/AreebaSadiq23?tab=followers">
+    <img src="https://img.shields.io/github/followers/AreebaSadiq23?label=Followers&style=flat&color=6D0F36" alt="followers"/>
+  </a>
+</p>
+
+---
 
 ## 📬 My Github Stats 
 <div>
@@ -41,15 +37,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=radical" alt="Top Languages" style="float: right; margin-left: 50px;" />
 </div>
 
+---
 
+## 🌐 Connect With Me  
 
+<p align="center">
+  <a href="https://areeba-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/AreebaSadiq23"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/areeba-sadiq-934a09351"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
+---
 
-
-
-
-
-
-
-
-<!-- Rest of your README content -->
+<p align="center">✨ Always exploring new technologies & building creative solutions ✨</p>
