@@ -1,25 +1,45 @@
 <img width="1584" height="396" alt="Purple Modern Geometric Graphic Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/80d34ca2-25d8-49c6-936d-57bfb48b98b4" />
 
-<h1 align="center">Hi 👋, I'm <b>Areeba Sadiq</b></h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer | AI Enthusiast</h3>
+# Hi, I'm Areeba 👋
+
+🚀 Frontend / Full-Stack Developer | Prompt & Context Engineer  
+🤖 AI-assisted development 
 
 ---
 
-## 👩‍💻 About Me  
+## 👩‍💻 About Me
 
-- 🌱 Currently learning **Python & Agentic AI Systems**  
-- 💼 1+ year of experience in **Frontend & Full-Stack Development**  
-- 🎨 Passionate about **Pixel-perfect UI/UX** with Figma  
-- ⚡ Exploring **AI Chatbots, LangChain & OpenAI Agents SDK**  
+I'm a frontend-focused full-stack developer with hands on experience in **Prompt Engineering** and **Context Engineering**.  
+I design structured prompts and context frameworks to get accurate, reliable results from AI tools like **Gemini CLI** and **Qwen**.
 
----
+I previously worked manually on development tasks, but now I leverage AI through well-defined prompts to:
+- Generate and refactor code
+- Speed up development workflows
+- Improve consistency and quality
+
+Currently exploring **Agentic AI systems** and AI-powered development practices.
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,bootstrap,python,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,bootstrap,python,figma,git,vscode" />
 </p>
 
+---
+
+## 🤖 AI & Prompt Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,terminal,github,cursor" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="48" />
+</p> 
+
+- Prompt Engineering (structured & role-based prompts)
+- Context Engineering (system, task, constraints, examples)
+- AI-assisted development workflows
+- Gemini CLI & Qwen
+- Agentic AI concepts
 ---
 
 <p align="center">
