@@ -2,14 +2,14 @@
 
 # Hi, I'm Areeba 👋
 
-🚀 Frontend / Full-Stack Developer | Prompt & Context Engineer  
-🤖 AI-assisted development 
+🚀 Frontend / Full Stack Developer | Prompt & Context Engineer  
+🤖 AI assisted development 
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a frontend-focused full-stack developer with hands on experience in **Prompt Engineering** and **Context Engineering**.  
+I'm a frontend focused full-stack developer with hands on experience in **Prompt Engineering** and **Context Engineering**.  
 I design structured prompts and context frameworks to get accurate, reliable results from AI tools like **Gemini CLI** and **Qwen**.
 
 I previously worked manually on development tasks, but now I leverage AI through well-defined prompts to:
