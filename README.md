@@ -9,15 +9,15 @@
 
 ## 👩‍💻 About Me
 
-I'm a frontend focused full-stack developer with hands on experience in **Prompt Engineering** and **Context Engineering**.  
-I design structured prompts and context frameworks to get accurate, reliable results from AI tools like **Gemini CLI** and **Qwen**.
+I'm a frontend focused full stack developer with hands on experience in **Prompt Engineering** and **Context Engineering**.  
+I design structured prompts and context frameworks to get accurate, reliable results from AI tools like **Gemini CLI**, **Claude** and **Qwen**.
 
-I previously worked manually on development tasks, but now I leverage AI through well-defined prompts to:
+I previously worked manually on development tasks, but now I leverage AI through well defined prompts to:
 - Generate and refactor code
 - Speed up development workflows
 - Improve consistency and quality
 
-Currently exploring **Agentic AI systems** and AI-powered development practices.
+Currently exploring **Agentic AI systems** and AI powered development practices.
 
 ## 🛠️ Tech Stack  
 
@@ -35,9 +35,9 @@ Currently exploring **Agentic AI systems** and AI-powered development practices.
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="48" />
 </p> 
 
-- Prompt Engineering (structured & role-based prompts)
+- Prompt Engineering (structured & role based prompts)
 - Context Engineering (system, task, constraints, examples)
-- AI-assisted development workflows
+- AI assisted development workflows
 - Gemini CLI & Qwen
 - Agentic AI concepts
 ---
