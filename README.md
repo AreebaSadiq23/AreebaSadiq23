@@ -54,10 +54,9 @@ Currently exploring **Agentic AI systems** and AI powered development practices.
 ## 📬 My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=radical" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me  
