@@ -67,6 +67,4 @@ Currently exploring **Agentic AI systems** and AI powered development practices.
   <a href="https://www.linkedin.com/in/areeba-sadiq-934a09351"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
 <p align="center">✨ Always exploring new technologies & building creative solutions ✨</p>
