@@ -51,11 +51,12 @@ Currently exploring **Agentic AI systems** and AI powered development practices.
 
 ---
 
-## 📬 My Github Stats 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" alt="GitHub Stats" style="float: left; margin-right: 50px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=radical" alt="Top Languages" style="float: right; margin-left: 50px;" />
-</div>
+## 📬 My Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=radical" />
+</p>
 
 ---
 
