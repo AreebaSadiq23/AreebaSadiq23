@@ -1,5 +1,5 @@
 <img width="1584" height="396" alt="Purple Modern Geometric Graphic Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/80d34ca2-25d8-49c6-936d-57bfb48b98b4" />
-# 👋 Hi, I'm Muhammad
+# 👋 Hi, I'm Areeba
 
 ## 🚀 Full-Stack Developer | AI Workflow Builder | Agentic AI Enthusiast
 
