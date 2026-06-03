@@ -1,70 +1,139 @@
 <img width="1584" height="396" alt="Purple Modern Geometric Graphic Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/80d34ca2-25d8-49c6-936d-57bfb48b98b4" />
+# 👋 Hi, I'm Muhammad
 
-# Hi, I'm Areeba 👋
+## 🚀 Full-Stack Developer | AI Workflow Builder | Agentic AI Enthusiast
 
-🚀 Frontend / Full Stack Developer | Prompt & Context Engineer  
-🤖 AI assisted development 
+I'm a Full Stack Developer passionate about building modern web applications and AI powered systems.
 
----
+My experience spans frontend development, backend architecture, authentication systems, databases, and AI integrations. I enjoy combining software engineering with Large Language Models (LLMs) to create intelligent products, automate workflows, and improve user experiences.
 
-## 👩‍💻 About Me
-
-I'm a frontend focused full stack developer with hands on experience in **Prompt Engineering** and **Context Engineering**.  
-I design structured prompts and context frameworks to get accurate, reliable results from AI tools like **Gemini CLI**, **Claude** and **Qwen**.
-
-I previously worked manually on development tasks, but now I leverage AI through well defined prompts to:
-- Generate and refactor code
-- Speed up development workflows
-- Improve consistency and quality
-
-Currently exploring **Agentic AI systems** and AI powered development practices.
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,bootstrap,python,figma,git,vscode" />
-</p>
+Currently, I'm focused on exploring Agentic AI systems, multi agent workflows, RAG architectures, tool calling, memory systems, and AI powered automation.
 
 ---
 
-## 🤖 AI & Prompt Engineering
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,terminal,github,cursor" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="48" />
-</p> 
+### Frontend
 
-- Prompt Engineering (structured & role based prompts)
-- Context Engineering (system, task, constraints, examples)
-- AI assisted development workflows
-- Gemini CLI & Qwen
-- Agentic AI concepts
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Next.js
+* Tailwind CSS
+* Bootstrap
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Authentication & Authorization
+* JWT Authentication
+* NextAuth
+* Clerk Authentication
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* Supabase
+* Sanity CMS
+
+### Development Tools
+
+* Git
+* GitHub
+* VS Code
+* Cursor
+* Figma
+
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AreebaSadiq23&label=Profile%20Views&color=6D0F36&style=flat" alt="profile views" /> 
-  <a href="https://github.com/AreebaSadiq23?tab=followers">
-    <img src="https://img.shields.io/github/followers/AreebaSadiq23?label=Followers&style=flat&color=6D0F36" alt="followers"/>
-  </a>
-</p>
+## 🤖 AI & Agentic Systems
+
+### AI Development
+
+* Prompt Engineering
+* Context Engineering
+* AI Assisted Development
+* LLM Integrations
+* Conversational AI
+* AI Workflow Automation
+
+### Exploring & Building
+
+* Agentic AI Workflows
+* Multi Agent Systems
+* Retrieval Augmented Generation (RAG)
+* Tool Calling
+* Memory-Based Agents
+* Semantic Search
+* Embeddings
+* Vector Databases
+* Autonomous AI Assistants
+
+### AI Tools & Models
+
+* ChatGPT
+* Gemini
+* Claude
+* Qwen
+* Gemini CLI
+* Cursor AI
+
+### Agent Frameworks (Learning & Experimenting)
+
+* LangGraph
+* CrewAI
+* AutoGen
 
 ---
 
-## 📬 My Github Stats
+## 💼 What I Build
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=radical" />
-</p>
+* Full-Stack Web Applications
+* AI-Powered Applications
+* Custom Chatbot Integrations
+* AI Employee Systems
+* Workflow Automation Tools
+* SaaS Platforms
+* Admin Dashboards
+* Portfolio & Business Websites
+
 ---
 
-## 🌐 Connect With Me  
+## 🌱 Current Focus
 
-<p align="center">
-  <a href="https://areeba-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/AreebaSadiq23"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/areeba-sadiq-934a09351"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+I'm currently learning and building systems around:
 
-<p align="center">✨ Always exploring new technologies & building creative solutions ✨</p>
+* Agentic AI
+* Multi-Agent Orchestration
+* Production-Ready AI Applications
+* RAG Pipelines
+* AI Memory Systems
+* Vector Search
+* LLM Tool Use
+* Scalable Backend Architectures
+
+---
+
+## 📈 Goals
+
+* Build production grade AI agents
+* Develop autonomous workflow systems
+* Create AI powered SaaS products
+* Contribute to the future of Agentic AI
+
+---
+
+## 🌐 Connect With Me
+
+* Portfolio: https://areeba-portfolio-website.vercel.app/
+* GitHub: https://github.com/AreebaSadiq23
+
+⭐ Always interested in building innovative products, AI-powered experiences, and next-generation software systems.
+
+
+
