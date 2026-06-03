@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="Purple Modern Geometric Graphic Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/80d34ca2-25d8-49c6-936d-57bfb48b98b4" />
 
-## 🚀 Full-Stack Developer | AI Workflow Builder | Agentic AI Enthusiast
+## 🚀 Full Stack Developer | AI Workflow Builder | Agentic AI Enthusiast
 
 I'm a Full Stack Developer passionate about building modern web applications and AI powered systems.
 
@@ -67,7 +67,7 @@ Currently, I'm focused on exploring Agentic AI systems, multi agent workflows, R
 * Multi Agent Systems
 * Retrieval Augmented Generation (RAG)
 * Tool Calling
-* Memory-Based Agents
+* Memory Based Agents
 * Semantic Search
 * Embeddings
 * Vector Databases
@@ -92,8 +92,8 @@ Currently, I'm focused on exploring Agentic AI systems, multi agent workflows, R
 
 ## 💼 What I Build
 
-* Full-Stack Web Applications
-* AI-Powered Applications
+* Full Stack Web Applications
+* AI Powered Applications
 * Custom Chatbot Integrations
 * AI Employee Systems
 * Workflow Automation Tools
@@ -108,7 +108,7 @@ Currently, I'm focused on exploring Agentic AI systems, multi agent workflows, R
 I'm currently learning and building systems around:
 
 * Agentic AI
-* Multi-Agent Orchestration
+* Multi Agent Orchestration
 * Production-Ready AI Applications
 * RAG Pipelines
 * AI Memory Systems
@@ -132,7 +132,7 @@ I'm currently learning and building systems around:
 * Portfolio: https://areeba-portfolio-website.vercel.app/
 * GitHub: https://github.com/AreebaSadiq23
 
-⭐ Always interested in building innovative products, AI-powered experiences, and next-generation software systems.
+⭐ Always interested in building innovative products, AI powered experiences, and next generation software systems.
 
 
 
