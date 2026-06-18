@@ -127,6 +127,25 @@ I'm currently learning and building systems around:
 
 ---
 
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AreebaSadiq23&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<!-- Followers -->
+<p align="left">
+  <a href="https://github.com/AreebaSadiq23?tab=followers">
+    <img src="https://img.shields.io/github/followers/AreebaSadiq23?label=Followers&style=social" alt="followers" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=tokyonight" />
+</p>
+
 ## 🌐 Connect With Me
 
 * Portfolio: https://areeba-portfolio-website.vercel.app/
