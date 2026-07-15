@@ -1,105 +1,113 @@
-<img width="1584" height="396" alt="Purple Modern Geometric Graphic Designer LinkedIn Banner" src="https://github.com/user-attachments/assets/80d34ca2-25d8-49c6-936d-57bfb48b98b4" />
+<div align="center">
 
-## 🚀 Full Stack Developer | AI Workflow Builder | Agentic AI Enthusiast
+<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/80d34ca2-25d8-49c6-936d-57bfb48b98b4" />
 
+# Hi 👋, I'm Areeba Sadiq
+
+### Full Stack Developer | AI Workflow Builder | Agentic AI Engineer
+
+<p>
 I'm a Full Stack Developer passionate about building modern web applications and AI powered systems.
+My experience spans frontend development, backend architecture, authentication systems, databases, and AI integrations.
+I enjoy combining software engineering with Large Language Models (LLMs) to create intelligent products, automate workflows, and improve user experiences.
+</p>
 
-My experience spans frontend development, backend architecture, authentication systems, databases, and AI integrations. I enjoy combining software engineering with Large Language Models (LLMs) to create intelligent products, automate workflows, and improve user experiences.
+<p>
+Currently exploring <b>Agentic AI systems</b>, <b>multi-agent workflows</b>, <b>RAG architectures</b>, <b>tool calling</b>, <b>memory systems</b>, and <b>AI-powered automation</b>.
+</p>
 
-Currently, I'm focused on exploring Agentic AI systems, multi agent workflows, RAG architectures, tool calling, memory systems, and AI powered automation.
+<p>
+  <a href="https://areeba-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/AreebaSadiq23?tab=followers">
+    <img src="https://img.shields.io/github/followers/AreebaSadiq23?label=Followers&style=for-the-badge&color=blueviolet" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AreebaSadiq23&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-* React.js
-* Next.js
-* Tailwind CSS
-* Bootstrap
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* Authentication & Authorization
-* JWT Authentication
-* NextAuth
-* Clerk Authentication
+### Backend & Auth
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT%20Auth-black?style=for-the-badge&logo=jsonwebtokens" />
+<img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+</p>
 
 ### Databases
-
-* PostgreSQL
-* MongoDB
-* Supabase
-* Sanity CMS
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+&nbsp;
+<img src="https://img.shields.io/badge/Sanity%20CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
+</p>
 
 ### Development Tools
-
-* Git
-* GitHub
-* VS Code
-* Cursor
-* Figma
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🤖 AI & Agentic Systems
 
 ### AI Development
-
-* Prompt Engineering
-* Context Engineering
-* AI Assisted Development
-* LLM Integrations
-* Conversational AI
-* AI Workflow Automation
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-4B0082?style=flat-square)
+![AI Assisted Development](https://img.shields.io/badge/AI%20Assisted%20Development-4B0082?style=flat-square)
+![LLM Integrations](https://img.shields.io/badge/LLM%20Integrations-4B0082?style=flat-square)
+![Conversational AI](https://img.shields.io/badge/Conversational%20AI-4B0082?style=flat-square)
+![AI Workflow Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-4B0082?style=flat-square)
 
 ### Exploring & Building
-
-* Agentic AI Workflows
-* Multi Agent Systems
-* Retrieval Augmented Generation (RAG)
-* Tool Calling
-* Memory Based Agents
-* Semantic Search
-* Embeddings
-* Vector Databases
-* Autonomous AI Assistants
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Workflows-6A0DAD?style=flat-square)
+![Multi Agent Systems](https://img.shields.io/badge/Multi%20Agent%20Systems-6A0DAD?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-6A0DAD?style=flat-square)
+![Memory Based Agents](https://img.shields.io/badge/Memory%20Based%20Agents-6A0DAD?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-6A0DAD?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-6A0DAD?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-6A0DAD?style=flat-square)
+![Autonomous Assistants](https://img.shields.io/badge/Autonomous%20AI%20Assistants-6A0DAD?style=flat-square)
 
 ### AI Tools & Models
-
-* ChatGPT
-* Gemini
-* Claude
-* Qwen
-* Gemini CLI
-* Cursor AI
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-purple?style=for-the-badge)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge)
 
 ### Agent Frameworks (Learning & Experimenting)
-
-* LangGraph
-* CrewAI
-* AutoGen
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B00?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge)
 
 ---
 
 ## 💼 What I Build
 
-* Full Stack Web Applications
-* AI Powered Applications
-* Custom Chatbot Integrations
-* AI Employee Systems
-* Workflow Automation Tools
-* SaaS Platforms
-* Admin Dashboards
-* Portfolio & Business Websites
+- 🌐 Full Stack Web Applications
+- 🤖 AI Powered Applications
+- 💬 Custom Chatbot Integrations
+- 👔 AI Employee Systems
+- ⚙️ Workflow Automation Tools
+- 🚀 SaaS Platforms
+- 📊 Admin Dashboards
+- 🎨 Portfolio & Business Websites
 
 ---
 
@@ -107,51 +115,50 @@ Currently, I'm focused on exploring Agentic AI systems, multi agent workflows, R
 
 I'm currently learning and building systems around:
 
-* Agentic AI
-* Multi Agent Orchestration
-* Production-Ready AI Applications
-* RAG Pipelines
-* AI Memory Systems
-* Vector Search
-* LLM Tool Use
-* Scalable Backend Architectures
+- Agentic AI
+- Multi Agent Orchestration
+- Production-Ready AI Applications
+- RAG Pipelines
+- AI Memory Systems
+- Vector Search
+- LLM Tool Use
+- Scalable Backend Architectures
 
 ---
 
 ## 📈 Goals
 
-* Build production grade AI agents
-* Develop autonomous workflow systems
-* Create AI powered SaaS products
-* Contribute to the future of Agentic AI
+- 🚀 Build production grade AI agents
+- ⚙️ Develop autonomous workflow systems
+- 💼 Create AI powered SaaS products
+- 🌍 Contribute to the future of Agentic AI
 
 ---
-
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AreebaSadiq23&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<!-- Followers -->
-<p align="left">
-  <a href="https://github.com/AreebaSadiq23?tab=followers">
-    <img src="https://img.shields.io/github/followers/AreebaSadiq23?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AreebaSadiq23&theme=tokyonight" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
-* Portfolio: https://areeba-portfolio-website.vercel.app/
-* GitHub: https://github.com/AreebaSadiq23
+<p>
+  <a href="https://areeba-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/AreebaSadiq23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ⭐ Always interested in building innovative products, AI powered experiences, and next generation software systems.
 
-
-
+</div>
