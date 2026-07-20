@@ -1,11 +1,35 @@
-<div align="center">
+<div>
 
 <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/80d34ca2-25d8-49c6-936d-57bfb48b98b4" />
 
-# Hi 👋, I'm Areeba Sadiq
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1200&color=91008D&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B,+I'm+Areeba+Sadiq;Full+Stack+Developer;Building+AI-Powered+Applications;Agentic+AI+Engineer;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
 
-### Full Stack Developer | AI Workflow Builder | Agentic AI Engineer
+<p align="center">
+<a href="https://areeba-portfolio-website.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7C3AED?style=for-the-badge"/>
+</a>
+<a href="https://github.com/AreebaSadiq23?tab=followers">
+<img src="https://img.shields.io/github/followers/AreebaSadiq23?style=for-the-badge&color=8B5CF6"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=AreebaSadiq23&style=for-the-badge&color=7C3AED"/>
+</p>
 
+## 📊 GitHub Stats
+<p align="center">
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=tokyonight" />
+
+<p/>
+
+
+
+
+
+</div>
 <p>
 I'm a Full Stack Developer passionate about building modern web applications and AI powered systems.
 My experience spans frontend development, backend architecture, authentication systems, databases, and AI integrations.
@@ -14,16 +38,6 @@ I enjoy combining software engineering with Large Language Models (LLMs) to crea
 
 <p>
 Currently exploring <b>Agentic AI systems</b>, <b>multi-agent workflows</b>, <b>RAG architectures</b>, <b>tool calling</b>, <b>memory systems</b>, and <b>AI-powered automation</b>.
-</p>
-
-<p>
-  <a href="https://areeba-portfolio-website.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/AreebaSadiq23?tab=followers">
-    <img src="https://img.shields.io/github/followers/AreebaSadiq23?label=Followers&style=for-the-badge&color=blueviolet" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AreebaSadiq23&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </p>
 
 </div>
@@ -132,33 +146,19 @@ I'm currently learning and building systems around:
 - ⚙️ Develop autonomous workflow systems
 - 💼 Create AI powered SaaS products
 - 🌍 Contribute to the future of Agentic AI
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AreebaSadiq23&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
+<p align="center">
 
-<p>
-  <a href="https://areeba-portfolio-website.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://x.com/ASadiq91694" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://github.com/AreebaSadiq23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/areeba-sadiq-934a09351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ⭐ Always interested in building innovative products, AI powered experiences, and next generation software systems.
 
-</div>
+</div>yr isko or achy sy design lrdo like hr and ceos eye catcing
