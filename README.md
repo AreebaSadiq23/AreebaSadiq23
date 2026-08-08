@@ -1,6 +1,7 @@
 <div>
 
-<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/80d34ca2-25d8-49c6-936d-57bfb48b98b4" />
+<img width="1280" height="320" alt="WhatsApp Image 2026-08-09 at 12 21 30 AM" src="https://github.com/user-attachments/assets/49297b18-d7cc-4809-901c-9497486df727" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1200&color=91008D&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B,+I'm+Areeba+Sadiq;Full+Stack+Developer;Building+AI-Powered+Applications;Agentic+AI+Engineer;Always+Learning+%26+Building+%F0%9F%9A%80" />
