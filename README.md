@@ -20,9 +20,10 @@
 ## 📊 GitHub Stats
 <p align="center">
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AreebaSadiq23&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=AreebaSadiq23&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage" />
 
 <p/>
 
